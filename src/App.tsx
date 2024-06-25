@@ -1,5 +1,6 @@
 import './App.css'
 import Drum from './assets/Drum'
+import { AudioClip } from './assets/types';
 
 const audioClips: AudioClip[] = [
   {
